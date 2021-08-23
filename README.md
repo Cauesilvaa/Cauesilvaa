@@ -3,7 +3,6 @@
 - 👨‍💻 Estou trabalhando atualmente como Desenvolvedor Web Jr
 - 🎓 Cursando: Análise e Desenvolvimento de Sistemas - FATEC SP
 - 📩 Contato: caueeac@gmail.com
-- 😄 Pronouns: ele/dele
 
  <div>
   <a href="https://github.com/Cauesilvaa">
