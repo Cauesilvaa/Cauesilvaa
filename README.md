@@ -1,6 +1,6 @@
 # Olá, Eu sou Cauê Silva 👋
 
-- 👨‍💻 Estou trabalhando atualmente como Desenvolvedor Web Jr
+- 👨‍💻 Estou trabalhando atualmente como Desenvolvedor full stack pleno
 - 🎓 Cursando: Análise e Desenvolvimento de Sistemas - FATEC SP
 - 📩 Contato: caueeac@gmail.com
 
