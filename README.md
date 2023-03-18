@@ -7,8 +7,23 @@
 ##
 
  <div>
-  <a href="https://github.com/Cauesilvaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cauesilvaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <!--
+  <div>
+    <a href="https://github.com/Cauesilvaa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cauesilvaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </div> 
+   -->
+   
+  <div >
+    <br>
+    <a href="https://github.com/Cauesilvaa">
+      <p>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Cauesilvaa&theme=highcontrast&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+      </p>
+    </a>
+    <br>
+</div>
+   
 </div>
   
   <div style="display: inline_block">
