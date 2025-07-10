@@ -1,5 +1,4 @@
-# Olá, Eu sou Cauê Silva 👋
-# Hello, I am Cauê Silva 👋
+# Olá, Eu sou Cauê Silva 👋 - Hello, I am Cauê Silva 👋
 
 - 👨‍💻 Desenvolvedor Full Stack - Full Stack Developer
 - 📩 Contato/Contact: caueeac@gmail.com
